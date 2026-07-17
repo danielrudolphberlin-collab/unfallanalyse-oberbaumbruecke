@@ -56,13 +56,13 @@ foto_links, foto_rechts = st.columns(2, gap="medium")
 with foto_links:
     st.image(
         "RUDOLPH-Ref1a.jpg",
-        caption="Oberbaumbrücke mit geschütztem Radfahrstreifen",
+        caption="Südöstliche Zufahrt zur Oberbaumbrücke von der Skalitzer Straße",
         use_container_width=True
     )
 with foto_rechts:
     st.image(
         "RUDOLPH-Ref1b.jpg",
-        caption="Östliche Zufahrt mit Radverkehrsführung",
+        caption="Westlicher geschützter Radfahrstreifen mit Protektionsborden auf der Oberbaumbrücke",
         use_container_width=True
     )
 
